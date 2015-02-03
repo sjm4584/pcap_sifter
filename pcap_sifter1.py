@@ -2,7 +2,7 @@
 from scapy.all import *
 import re, sys, argparse, MySQLdb
 
-#intall MySQLdb from apt-get or pip. Create a db called "exploitdb" and a table "sqli" with your exploits
+#install MySQLdb from apt-get or pip. Create a db called "exploitdb" and a table "sqli" with your exploits
 #or modify this code to fit your own database structure! I should make it cmdline args but time...
 
 
